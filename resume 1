@@ -1,0 +1,44 @@
+PROFESSIONAL SUMMARY
+•	Experience working on Monolithic and Microservices oriented architecture.
+•	Experience in creating, configuring and maintaining Amazon EC2 instances.
+•	Experience working with version control system like GIT, Github.
+•	Implemented a CI/CD pipeline involving Git, Jenkins, Nexus, Ansible and Docker for complete automation from commit to deployment.
+•	Experience in Ansible as a configuration management tool to automation from commit to deployment tool to automate infrastructure provisioning by writing various Ansible playbooks.
+•	Hands-on experience using Maven as build tool for building of deployable artifacts from source code.
+•	 Experience working with Load balancers to route incoming traffic to number of downstream servers.
+•	Experience working with microservices by using Docker.
+•	Deployed various web-based applications using Git and Jenkins to Apache Tomcat server.
+
+
+SKILLS
+•	Devops Tools: Jenkins, maven, Docker, Kubernetes, Grafana.
+•	Scripting Languages: Python, shell, Bash.
+•	Version Control Tools: GitHub.
+•	Build Tool : Maven
+•	Code Analysis : SonarQube
+•	Artifactory : Nexus,JFrog
+•	Configuration Mangement Tools: Ansible, Chef.
+•	Containerization Tool : Docker
+•	Container Orchestration : Kubernetes 
+•	Cloud Platforms : Amazon Web Services (EC2,S3,IAM,Route53,VPC …. etc)
+•	Databases : MySQL
+•	Operating Systems: Red Hat Enterprise Linux, CentOS, Ubuntu, MacOs.
+
+WORK – STORY
+October 2020 – Current
+•	Responsible for automating CI/CD build pipelines via GitHub and Jenkins and setting up master and worker node by following DevOps practices.
+•	 Used Jenkins as the build server and integrated it with GitHub for daily CI activities.
+•	Implemented the CI/CD pipeline cycle for multiple teams from scratch in all environments.
+•	Experience on using Github with Admin privileges and created various repositories to integrate them with Jenkins.
+•	Experience in setting up Jenkins jobs for the respective projects and completely involved in the build process.
+•	Experience in using pipeline jobs in Jenkins for various projects.
+•	Monitored the overall build process and responsible for maintaining the code coverage results in SonarQube dashboard.
+•	Experience in using Jfrog and Nexus repository in CI pipeline for pushing the build artifacts for future process.
+•	Experience in pushing the Docker images from Jenkins to Nexus and maintaining the various versions of it.
+•	Worked closely with the development team for resolving the issues occurred due to the build process.
+•	Experience in using Docker composes files for the communication between multiple containers.
+•	Knowledge on implementing the blue/green deployment techniques using Docker and Kubernetes for zero down time achievement.
+•	Written Ansible scripts for picking up the Docker images and deploying them onto the target server.
+•	Experience in writing various Docker files and built container images to create Docker containers for each environment and further pushed them to Amazon ECR for storage.
+•	Experienced in setting up Kubernetes dashboard and worked on creating pods, replica sets, services, deployments, health checks and ingress by writing YAML manifests.
+•	Involved in maintaining, managing and improving cloud infrastructure on AWS by creating EC2 instances, Auto Scaling Groups, IAM, VPC's, CloudFront.
